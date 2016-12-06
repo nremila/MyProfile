@@ -9,7 +9,7 @@ width: 100%;
 body{
   /*background-color: #FEFCFF;*/
   background-attachment: fixed;
-  background: url("../img/DSC02297.JPG")*no-repeat fixed center center; 
+  background: url("img/DSC02297.JPG")*no-repeat fixed center center; 
   /*/
   font-family: 'Quicksand', sans-serif;
   background-size: cover;
