@@ -9,7 +9,8 @@ width: 100%;
 body{
   /*background-color: #FEFCFF;*/
   background-attachment: fixed;
-  background-image: url("../img/DSC02297.jpg");
+  background: url("../img/DSC02297.jpg")*no-repeat fixed center center; 
+  /*/
   font-family: 'Quicksand', sans-serif;
   background-size: cover;
   line-height: 1.4;
