@@ -9,8 +9,7 @@ width: 100%;
 body{
   /*background-color: #FEFCFF;*/
   background-attachment: fixed;
-  background: url("img/DSC02297.JPG");
-  /*no-repeat fixed center center;*/
+  background-image: url(http://i.imgur.com/WPmM3zl.jpg);
   font-family: 'Quicksand', sans-serif;
   background-size: cover;
   line-height: 1.4;
